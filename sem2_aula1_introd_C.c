@@ -4,7 +4,6 @@ int main() {
     int num1, num2, soma;
     float div1, div2, divisao;
 
-    // comentario
     // lendo dois numeros do usuario
     printf("Digite o primeiro numero da soma: ");
     scanf("%d", &num1);

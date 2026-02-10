@@ -4,7 +4,6 @@
 int main() {
     int num1, num2, soma;
 
-    // comentario
     // lendo dois numeros do usuario
     printf("Digite o primeiro numero: ");
     scanf("%d", &num1);
